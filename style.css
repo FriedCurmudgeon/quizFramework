@@ -1,0 +1,32 @@
+.container {
+    margin-top: 50px;
+}
+.registration-box {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.question-box {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.question-exp-date-notice {
+    font-style: italic;
+    color: #6c757d; /* Text color similar to Bootstrap's muted color */
+}
+.form-control {
+    margin-bottom: 10px;
+}
+.cookie-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    border-radius: 0;
+    margin: 0;
+    }
